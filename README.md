@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, I am Iftekhar Mahmud.
 
-<!--
-**IMHredoy/IMHredoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I like to solve problems. Currently I'm trying to improve my problem solving skills.
 
-Here are some ideas to get you started:
+- SKILLS: C / C++ / JS / HTML / CSS / PYTHON
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I’m currently learning Data Structures and Algorithms 
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=IMHredoy )
+
+![](https://raw.githubusercontent.com/IMHredoy/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=IMHredoy&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IMHredoy )](https://github.com/anuraghazra/github-readme-stats)
