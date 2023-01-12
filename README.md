@@ -6,9 +6,9 @@
 
 - I’m currently learning Data Structures and Algorithms 
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=IMHredoy )
-
 ![](https://raw.githubusercontent.com/IMHredoy/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=IMHredoy )
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IMHredoy&show_icons=true)
 
